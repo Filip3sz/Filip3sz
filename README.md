@@ -40,4 +40,7 @@
   <a href="mailto:kontakt.fbocian@gmail.com">
     <img src="https://img.shields.io/badge/Personal_Email-kontakt.fbocian%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Personal Email" />
   </a>
+  <a href="mailto:kontakt.fbocian@gmail.com">
+    <img src="https://img.shields.io/badge/Personal_Email-kontakt.fbocian%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Personal Email" />
+  </a>
 </p>

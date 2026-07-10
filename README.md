@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Filip</h1>
-<h3 align="center"> >>> A passionate coder and 2nd-year computer science student at PJATK from Poland <<< </h3>
+<h3 align="center">A passionate coder and 2nd-year computer science student at PJATK from Poland</h3>
 
 <table align="center">
   <tr>

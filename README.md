@@ -34,22 +34,10 @@
 
 <br>
 
-<!-- GitHub Stats Section -->
-<h3 align="center">📈 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Filip3sz&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filip3sz&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</p>
-
-<br>
-
 <!-- Contact / Socials -->
 <h3 align="center">📫 Connect with me</h3>
 <p align="center">
   <a href="mailto:kontakt.fbocian@gmail.com">
     <img src="https://img.shields.io/badge/Personal_Email-kontakt.fbocian%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Personal Email" />
-  </a>
-  <a href="mailto:s36010@pjwstk.edu.pl">
-    <img src="https://img.shields.io/badge/PJATK_Email-s36010%40pjwstk.edu.pl-00599C?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Student Email" />
   </a>
 </p>

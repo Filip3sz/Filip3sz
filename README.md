@@ -25,6 +25,19 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+<h3 align="center">⏳ Currently learning...</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+<h3 align="center">💻 My main projects</h3>
+<p align="center">UHCMEETUP
+  <a href="https://github.com/TwojNick/nazwa-repo-1">
+    <img src="https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+  </a>
+</p>
+
 <h3 align="center">📫 Connect with me</h3>
 <p align="center">
   <a href="mailto:kontakt.fbocian@gmail.com">

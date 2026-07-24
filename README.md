@@ -32,7 +32,9 @@
 </p>
 
 <h3 align="center">💻 My main projects</h3>
-<p align="center">UHCMEETUP
+<p align="center">
+  UHCMEETUP
+  <br>
   <a href="https://github.com/TwojNick/nazwa-repo-1">
     <img src="https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
   </a>

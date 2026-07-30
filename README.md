@@ -5,8 +5,8 @@
   <tr>
     <td>
       <p align="center">
-        🚀 Hi, I'm Filip! I'm a second-year Computer Science student at the Polish-Japanese Academy of Information Technology.<br>
-        My primary programming language is Java, which I've been using since 2019 to create things like Minecraft plugins.<br>
+        🚀 Hi, I'm Filip! I'm a second-year Computer Science student at the Polish-Japanese Academy of Information Technology.
+        My primary programming language is Java, which I've been using since 2019 to create things like Minecraft plugins.
         Currently, I'm developing my skills in frameworks such as Spring Boot. Additionally, I have a solid foundation in C/C++ and Web Development tools.
       </p>
     </td>

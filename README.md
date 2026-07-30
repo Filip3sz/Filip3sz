@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Personal_Email-kontakt.fbocian%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Personal Email">
   </a>
   <br>
-  <a href="https://twoja-strona.pl" target="_blank">
-    <img src="https://img.shields.io/badge/Website-twoja--strona.pl-1e1e2e?style=for-the-badge&logo=safari&logoColor=89b4fa" alt="Website">
+  <a href="https://fbocian.pl" target="_blank">
+    <img src="https://img.shields.io/badge/Website-fbocian.pl-1e1e2e?style=for-the-badge&logo=safari&logoColor=89b4fa" alt="Website">
   </a>
 </p>

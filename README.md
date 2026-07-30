@@ -5,8 +5,9 @@
   <tr>
     <td>
       <p align="center">
-        🚀 Welcome to my GitHub profile! I am a computer science student at Polish-Japanese Academy of Information Technology.<br>
-        My main focus and programming language of choice is <b>Java</b>, but I also enjoy building web applications and writing systems code.
+        🚀 Hi, I'm Filip! I'm a second-year Computer Science student at the Polish-Japanese Academy of Information Technology.<br>
+        My primary programming language is Java, which I've been using since 2019 to create things like Minecraft plugins.<br>
+        Currently, I'm developing my skills in frameworks such as Spring Boot. Additionally, I have a solid foundation in C/C++ and Web Development tools.
       </p>
     </td>
   </tr>

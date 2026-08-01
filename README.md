@@ -1,35 +1,35 @@
-<h1 align="center">Hi there! I'm Filip</h1>
-<h3 align="center">A passionate coder and 2nd-year computer science student at PJATK from Poland</h3>
-
-<table align="center">
-  <tr>
-    <td>
-      <p align="center">
-        🚀 Hi, I'm Filip! I'm a second-year Computer Science student at the Polish-Japanese Academy of Information Technology.
-        My primary programming language is Java, which I've been using since 2019 to create things like Minecraft plugins.
-        Currently, I'm developing my skills in frameworks such as Spring Boot. Additionally, I have a solid foundation in C/C++ and Web Development tools.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,php,html,css,wordpress,git&theme=dark" alt="My Tech Stack">
+<h1>👋 Hi there! I'm Filip</h1>
+<p>
+  I'm a second-year Computer Science student at the Polish-Japanese Academy of Information Technology.
+  My primary programming language is <b>Java</b>, which I've been using since 2019 to create things like Minecraft plugins.
+  Currently, I'm developing my skills in frameworks such as <b>Spring Boot</b>. Additionally, I have a solid foundation in C/C++ and Web Development tools.
+</p>
+<p>
+  More about me you can find visiting my <a href="http://fbocian.pl">personal website</a>.
 </p>
 
-<h3 align="center">⏳ Currently learning...</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,docker&theme=dark" alt="Currently Learning">
+<hr>
+
+<h2>⚒️ Main Tech Stack & Tools</h2>
+<img src="https://skillicons.dev/icons?i=java,html,css,git&theme=dark" alt="Main Tech Stack & Tools">
+
+<h2>⏳ Currently learning...</h2>
+<img src="https://skillicons.dev/icons?i=spring,docker&theme=dark" alt="Currently Learning">
+
+<h2>💻 Main Projects</h2>
+<p>
+  <b>Cooming soon!</b>
 </p>
 
-<h3 align="center">📫 Connect with me</h3>
-<p align="center">
-  <a href="mailto:kontakt.fbocian@gmail.com">
-    <img src="https://img.shields.io/badge/Personal_Email-kontakt.fbocian%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Personal Email">
-  </a>
-  <br>
-  <a href="https://fbocian.pl" target="_blank">
-    <img src="https://img.shields.io/badge/My_Website-fbocian.pl-1e1e2e?style=for-the-badge&logo=safari&logoColor=89b4fa" alt="Website">
-  </a>
+<p>
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Filip3sz&show_icons=true&theme=dark&bg_color=00000000&count_private=true&hide_border=true" alt="GitHub Stats">
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Filip3sz&layout=compact&theme=dark&bg_color=00000000&hide=html,css&hide_border=true" alt="Top Languages">
 </p>
+
+<hr>
+
+<h3>📫 Connect with me</h3>
+<ul>
+  <li><a href="http://fbocian.pl">Website</a></li>
+  <li><a href="mailto:kontakt.fbocian@gmail.com">Mail</a></li>
+</ul>

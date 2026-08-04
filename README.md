@@ -30,6 +30,7 @@
 
 <h3>📫 Connect with me</h3>
 <ul>
+  <li><a href="https://linkedin.com/in/Filip3sz">LinkedIn</a></li>
   <li><a href="http://fbocian.pl">Website</a></li>
   <li><a href="mailto:kontakt.fbocian@gmail.com">Mail</a></li>
 </ul>

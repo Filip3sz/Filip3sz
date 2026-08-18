@@ -1,1 +1,1 @@
-<img src="https://fbocian.pl/terminalusik.svg" alt="terminalusik" width="100%">
+<img src="https://fbocian.pl/terminalusek.svg" alt="terminalusek" width="100%">

@@ -1,1 +1,1 @@
-<img src="https://fbocian.pl/readme.svg" alt="terminal" width="100%">
+<img src="https://fbocian.pl/readme.svg" alt="readme" width="100%">
